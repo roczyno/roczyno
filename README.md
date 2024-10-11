@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jacob Sabbath Adiaba
 ####  FullStack Developer
-![ FullStack Developer](https://github.com/roczyno/roczyno/blob/main/github-header-image.png)
+![ FullStack Developer](https://github.com/roczyno/roczyno/blob/main/github-header-image%20(1).png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
